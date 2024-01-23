@@ -1,4 +1,3 @@
-
 ### Olá, eu sou o Eduarllem Prates 🤚🏼
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3d_prates/)
@@ -19,6 +18,13 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+</div><br/>
+
+Atualmente Focado em Desenvolvimento Web, me especializando ainda mais em Java Script e React Js
+
+Para contato:
+- eduarllemprates930@gmail.com
+- ed.trabalho930@gmail.com
+- +55 (27) 9 9589-8184
 
 
